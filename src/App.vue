@@ -3,7 +3,7 @@
 
     <nav>
       <div class="nav-wrapper blue darken-1">
-        <a href="#" class="brand-logo center">Produtos Licitanet </a>
+        <a href="#" class="brand-logo center">Projeto Fome Zero </a>
       </div>
     </nav>
 
