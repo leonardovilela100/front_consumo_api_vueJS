@@ -1,7 +1,7 @@
 
 <h2> Assista ao vídeo de introdução a aplicação criado por Leonardo Carvalho Vilela <h2>
 <h1>
-https://youtu.be/KsBbKO2hefE
+https://www.youtube.com/watch?v=U6KM_iu9G3o
 </h1>
 
 <h2> Esse projeto tem como funcionalidade consumir uma api laravel já criada e aqui ser o Front-End da aplicação </h2>
